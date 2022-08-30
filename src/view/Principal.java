@@ -17,7 +17,7 @@ public class Principal {
 		RedesController.readProcess(process);
 		
 	   //String process = "TASKLIST /FO TABLE";
-	  // RedesController.callProcess(process);
+	  // RedesController.readProcess(process);
 
 	
 	}
